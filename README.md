@@ -1,4 +1,4 @@
-# Sea Shanty 2 Dance Mod
+# Sea Shanty 2 Sailing Mod
 
 Plays the iconic Sea Shanty 2 from RuneScape when you dance on a boat in Valheim!
 

@@ -1,6 +1,6 @@
 {
   "name": "Shanty4Heim",
-  "version_number": "1.0.2",
+  "version_number": "1.0.3",
   "website_url": "https://github.com/Jonnywrrn23/Shanty4Heim",
   "description": "Plays Sea Shanty 2 from RuneScape when dancing on boats",
   "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]

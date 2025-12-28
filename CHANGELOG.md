@@ -1,5 +1,13 @@
 # Sea Shanty 2 Dance Mod - Changelog
 
+## [1.1.0] - 2025
+
+### Improvement
+
+- Modified instances to be player based
+- Added player audio object, rather than global audio
+- Multiple player instance issue fixed
+
 ## [1.0.3] - 2025
 
 ### Fixed

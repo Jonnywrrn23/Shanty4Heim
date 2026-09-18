@@ -12,6 +12,17 @@ Install with r2modman or manually place in BepInEx/plugins/
 2. Use the dance emote
 3. Enjoy the tunes!
 
+Everyone nearby hears it, not just the dancer.
+
+## Configuration
+
+Settings > Audio has a **Shanty4Heim Sound** slider directly under Music. It takes
+effect as you drag it, and the master volume slider applies on top of it.
+
+The same value lives in `BepInEx/config/com.jonny.seashanty4heim.cfg` if you would
+rather edit it there.
+
 ## Credits
 
-- Sea Shanty 2 by Ian Taylor (RuneScape OST)
+- "Sea Shanty 2" by Ian Taylor (RuneScape OST)
+- "Rasputin" by Boney M.

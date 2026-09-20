@@ -1,5 +1,24 @@
 # Sea Shanty 2 Dance Mod - Changelog
 
+## [1.3.0] - 2026
+
+### Added
+
+- A level-up sound effect when any of your skills gains a level. It plays only for
+  you and is not positional, so nobody else hears it
+- A "Shanty4Heim Level-up Sound" checkbox in Settings > Audio, directly under the
+  volume slider, for switching it off. Stored as `LevelUpSound` in the config file
+
+### Changed
+
+- The level-up sound runs through the Shanty4Heim Sound slider, so one volume
+  covers everything the mod plays
+
+### Fixed
+
+- The shanty only responds to the dance emote now. Sitting down on a boat used to
+  start the whole track, and every one-shot emote set off a second or two of it
+
 ## [1.2.1] - 2026
 
 ### Fixed

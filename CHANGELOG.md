@@ -1,5 +1,11 @@
 # Sea Shanty 2 Dance Mod - Changelog
 
+## [1.3.1] - 2026
+
+### Changed
+
+- Minor behaviour tweaks
+
 ## [1.3.0] - 2026
 
 ### Added

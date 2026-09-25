@@ -36,4 +36,3 @@ would rather edit them there.
 ## Credits
 
 - "Sea Shanty 2" by Ian Taylor (RuneScape OST)
-- "Rasputin" by Boney M.

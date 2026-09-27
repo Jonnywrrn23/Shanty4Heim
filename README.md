@@ -13,7 +13,8 @@ Install with r2modman or manually place in BepInEx/plugins/
 3. Enjoy the tunes!
 
 Everyone nearby hears it, not just the dancer. Dancing is the only emote that
-starts it - sitting, waving and the rest are left alone.
+starts it - sitting, waving and the rest are left alone. A lucky few may find
+another emote or two has a sound of its own.
 
 ## Level-up sound
 

@@ -1,5 +1,15 @@
 # Sea Shanty 2 Dance Mod - Changelog
 
+## [1.3.3] - 2026
+
+### Fixed
+
+- The mod could keep thinking you were on a boat after you had left it, so dancing
+  on dry land played the shanty until you relogged. This happened when you went
+  through a portal from the deck, the boat was wrecked, or it unloaded while you
+  were still aboard. Each boat that is still loaded is now asked directly whether
+  you are on it
+
 ## [1.3.2] - 2026
 
 ### Changed
